@@ -1,0 +1,67 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Teko', sans-serif;
+    height: 10vh;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    z-index: 999;
+    background-color: rgba(0, 0, 0, 0.8);
+    transition: background-color 0.3s ease;
+    padding: 0 3vw;
+}
+
+.nav-scrolled {
+    background-color: rgb(42, 42, 42) !important;
+}
+
+.navbar h3 {
+    font-size: 2.5rem;
+    margin: 0;
+    color: rgb(237, 237, 237);
+}
+
+.navbar ul {
+    display: flex;
+    gap: 30px;
+    margin: 0;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: inherit;
+    transition: color 0.3s ease;
+}
+
+.navbar ul li {
+    font-size: 1.3rem;
+    list-style: none;
+    margin: 0;
+    color: rgb(236, 236, 236);
+    cursor: pointer;
+}
+
+.navbar ul li:hover {
+    color: tomato;
+    transform: scale(1.1);
+}
+
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        height: auto;
+        padding: 1rem;
+    }
+
+    .navbar ul {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .navbar h3 {
+        margin-bottom: 1rem;
+    }
+}
