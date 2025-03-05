@@ -63,3 +63,4 @@ To get the application project from the drive, follow these steps:
 ![Scr![Screenshot 2025-03-05 221054](https://github.com/user-attachments/assets/cceda037-095e-4cbe-a2ac-3a5567a9cb09)
 eenshot 2025-03-05 221043](https://github.com/user-attachments/assets/486ab9f5-fe44-46fd-80aa-52ec3bd5c80e)
 ![Screenshot 2025-03-05 221107](https://github.com/user-attachments/assets/3257e99c-079b-4fd9-8250-aa61724cde85)
+![Screenshot 2025-03-05 221054](https://github.com/user-attachments/assets/8085b9f3-afec-443d-8b03-cd06f772acaf)
