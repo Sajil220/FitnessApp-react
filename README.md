@@ -59,6 +59,7 @@ To get the application project from the drive, follow these steps:
   cd fitness-app-react
   npm install
 ## Snap
-![Screenshot 2025-03-05 221015](https://github.com/user-attachments/assets/c2c5fd9b-4c1f-435d-8e52-a141f313c86d)
-![Screenshot 2025-03-05 221054](https://github.com/user-attachments/assets/b9513215-ad70-4ffa-aacd-af5c5406f85b)
-![Screenshot 2025-03-05 221043](https://github.com/user-attachments/assets/9a87f429-ec3a-4e4d-868e-c8b6ca6137bf)
+![Screenshot 2025-03-05 221015](https://github.com/user-attachments/assets/91ed3faa-157f-46cb-a8e1-71836d10d634)
+![Scr![Screenshot 2025-03-05 221054](https://github.com/user-attachments/assets/cceda037-095e-4cbe-a2ac-3a5567a9cb09)
+eenshot 2025-03-05 221043](https://github.com/user-attachments/assets/486ab9f5-fe44-46fd-80aa-52ec3bd5c80e)
+![Screenshot 2025-03-05 221107](https://github.com/user-attachments/assets/3257e99c-079b-4fd9-8250-aa61724cde85)
